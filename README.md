@@ -17,8 +17,11 @@ The search engine has three main features:
 EVALUATION METHODS
 
 Read each option carefully as I origionally did the Machine Learning and wasted a majority of the allocated time on this assignment as I thought that it was the best option for me due to it primarily being probability - Time Management.
+
 Rather than building the project outside of a Graphical User Interface and then trying to connect them afterwards just start with the Graphical User Interface.
+
 Dedicate a seperate time to work on the assignment rather than trying to work on multiple assignments at a time - Time Management.
+
 Look into Github rather than just adding a file and posting it here like its a forum.
 
 
